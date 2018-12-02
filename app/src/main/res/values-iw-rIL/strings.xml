@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מה יסדר אותך</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_activity_maps_fragment">מפה</string>
+    <string name="market">ק</string>
+    <string name="school">בתי ספר</string>
+    <string name="restaurant">מסעדות</string>
+    <string name="hospital">בתי חולים</string>
+    <string name="open">פתוח</string>
+    <string name="close">סגור</string>
+    <string name="distance">מרחק</string>
+    <string name="language">שפה</string>
+    <string name="restore">אתחל</string>
+    <string name="cancel">בטל</string>
+    <string name="info">מידע</string>
+    <string name="english">אנגלית</string>
+    <string name="hebrew">עברית</string>
+    <string name="km">ק\"מ</string>
+    <string name="miles">מייל</string>
+    <string name="search">חיפוש</string>
+    <string name="map">מפה</string>
+    <string name="favorite">מעודפים</string>
+    <string name="setting">הגדרות</string>
+    <string name="deleted_all">רשימת המעודפים נמחקה</string>
+    <string name="deleted_all_failed">מחיקת המעודפים נכשלה</string>
+    <string name="empty_favorite_list">אוסף מקומות מעודפים</string>
+    <string name="radius">רדיוס</string>
+    <string name="search_failed">לא נמצאו תוצאות</string>
+    <string name="device_connect">המכשיר בהטענה</string>
+    <string name="device_disconnect">המכשיר נותק מהטענה</string>
+    <string name="meter"> מטר</string>
+    <string name="foot"> רגל</string>
+    <string name="remove_message">האם תרצה למחוק את רשימת המעודפים?</string>
+    <string name="url_lang">language=iw</string>
+    <string name="author_name">זיו אברמוביץ</string>
+    <string name="author">מחבר:</string>
+    <string name="version">גרסא:</string>
+</resources>

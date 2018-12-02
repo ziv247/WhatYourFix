@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WhatsYourFix</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps_fragment">Map</string>
+    <string name="market">Market</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="hospital">Hospital</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="distance">Distance</string>
+    <string name="language">Language</string>
+    <string name="restore">Restore</string>
+    <string name="cancel">Cancel</string>
+    <string name="info">Info</string>
+    <string name="english">English</string>
+    <string name="hebrew">Hebrew</string>
+    <string name="km">KM</string>
+    <string name="miles">Miles</string>
+    <string name="search">Search</string>
+    <string name="map">Map</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="deleted_all">Favorites list deleted</string>
+    <string name="deleted_all_failed">Failed to delete favorites list</string>
+    <string name="empty_favorite_list">Add your favorite places</string>
+    <string name="radius">Radius</string>
+    <string name="search_failed">No results found</string>
+    <string name="school">School</string>
+    <string name="device_connect">The device is charging</string>
+    <string name="device_disconnect">The device was disconnected from charging</string>
+    <string name="meter">M</string>
+    <string name="foot">Ft</string>
+    <string name="remove_message">Do you want to remove your Favorite list?</string>
+    <string name="url_lang">language=en</string>
+    <string name="author_name">Ziv Abramovich</string>
+    <string name="author">Author:</string>
+    <string name="version">Version:</string>
+</resources>
